@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './style.css';
 import { Jumbotron, Button } from 'react-bootstrap';
- 
+import './style.css';
+
 class Elem1 extends Component{
     render(){
         return(
@@ -15,5 +15,5 @@ class Elem1 extends Component{
         )
     }
 }
- 
+
 export default Elem1;
