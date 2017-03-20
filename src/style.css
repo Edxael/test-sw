@@ -1,0 +1,10 @@
+body{
+    background-color: lavender;
+    /*background-image: url("IMG/back3.jpg");*/
+    text-align: center;
+}
+
+.container{
+    background-color: lavender;
+    padding-top: 25px;
+}
